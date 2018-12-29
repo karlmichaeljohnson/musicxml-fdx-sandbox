@@ -1,0 +1,10 @@
+*.fdx
+*.html
+*.musicxml
+*.mxml
+
+venv/
+__pycache__/
+*.pyc
+
+.DS_Store
